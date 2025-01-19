@@ -30,7 +30,7 @@
 
 <div align="left">
   <a href="https://www.discordapp.com/users/898447783223250984" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=38BDAE&logoColor=white&labelColor=&style=flat" height="55" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289da&logoColor=white&labelColor=&style=flat" height="55" alt="discord logo"  />
   </a>
 </div>
 
